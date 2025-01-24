@@ -8,7 +8,7 @@ This coding challenge is designed to assess your foundational skills in **React,
 
 ## 🚨 Why This Assignment Matters  
 
-With **200+ applicants**, this challenge helps us identify developers who:  
+This challenge helps us identify developers who:  
 1. **Care About Quality**: Invest time in clean code and thoughtful UX.  
 2. **Learn Quickly**: Adapt to Shopify’s ecosystem (Liquid, theme extensions).  
 3. **Solve Real Problems**: Build tools merchants and customers actually use.  
